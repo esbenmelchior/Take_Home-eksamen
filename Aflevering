@@ -8,7 +8,37 @@
 \begin{document}
 
 \maketitle
+\chapter{Opgave 1} -
+I det følgende lader vi $ U ={1,2,3,...,15} $ være universet.
+Betragt de to mængder:
+\begin{displaymath} A = \{2n | n \in S\}, B = \{3n+2 | n \in S\}
+\end{displaymath}
+hvor $ S = {1,2,3,4} $
+\\
 
-\section{Introduction}
+a) A multiplicerer alle elementer i S med 2. 
+\\
+$ A = {2,4,6,8}$
+\\
+b) B multiplicerer alle elementer i S med 3 og adderer med 2.
+\\
+$ B= {5,8,11,14}$
+\\
+c) $A \cap B$ er fællesmængden mellem A og B.
+\\
+$ A \cap B = {8}$
+\\
+d) $A \cup B$ Er de elementer der enten er i A eller i B. 
+\\
+$ A \cup B = {2,4,5,6,8,11,14}$
+\\
+e) $A-B$ Er de elementer i A fratrukket de elementer der også er i B.
+\\
+$ A - B = {2,4,6}$
+\\
+f) $\neg A$ Er $U-A$ 
+\\
+$\neg A = {1,3,5,7,9,10,11,12,13,14,15}$
+
 
 \end{document}
