@@ -1,8 +1,10 @@
 \documentclass{article}
 \usepackage{graphicx} % Required for inserting images
 
-\title{Takehome eksamen}
-\author{Esben Pedersen, Patrick Gauguin, Alex Jeppsson }
+\title{DM500 Take Home eksamen: Studiegruppenr. 2}
+\author{Alex Vincent Hirsch Jeppsson, h8, Aljep23\\
+Esben Melchior Pedersen, h8, Esped23\\
+Patrick Fonseca Ryom Gauguin, h8, Pagau23}
 \date{November 2023}
 
 \begin{document}
