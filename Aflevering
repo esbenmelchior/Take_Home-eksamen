@@ -1,1 +1,14 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
 
+\title{Takehome eksamen}
+\author{Esben Pedersen, Patrick Gauguin, Alex Jeppsson }
+\date{November 2023}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+\end{document}
