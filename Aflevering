@@ -9,7 +9,7 @@
 
 \maketitle
 
-\section{Opgave 1} \\
+\section{Opgave 1, 2015} \\
 I det følgende lader vi $ U ={1,2,3,...,15} $ være universet.
 Betragt de to mængder:
 \begin{displaymath} A = \{2n | n \in S\}, B = \{3n+2 | n \in S\}
@@ -34,7 +34,7 @@ $ A - B = {2,4,6}$
 f) $\neg A$ Er $U-A$ \\
 $\neg A = {1,3,5,7,9,10,11,12,13,14,15}$
 
-\section{Opgave 2}
+\section{Opgave 2, 2015}
 \begin{itemize}
     \item a) Hvilke af følgende udsagn er sande?
         \begin{enumerate}
